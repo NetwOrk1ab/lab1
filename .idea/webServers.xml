@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fceb2e38-89e7-4472-9874-e62233df9275" name="remoteServer" url="http://144.34.144.4">
+        <fileTransfer host="144.34.144.4" port="26693" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="26693" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
