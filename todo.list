@@ -1,5 +1,0 @@
-# TODO: add a cache to proxy
-        if the request has if-modified-since , pass
-        else lookup is it hitted by cache database
-            if hit , add if-modified-since and send to remote server
-                     record return response if 403 ,send content in DB to client
